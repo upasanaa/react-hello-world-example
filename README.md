@@ -5,8 +5,12 @@ README
 What is this repository for?
 
   A basic hello world example using reactJS.
-  
+    
   Version 1.0
+  
+  Note: This repository is very basic setup for reactjs project using
+  babel, webpack & react. You can use it as a boilerplate for
+  your reactJs projects. 
   
 How do I get set up?
 
